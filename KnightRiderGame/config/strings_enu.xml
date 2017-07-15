@@ -1,0 +1,46 @@
+<messages>
+    <COPY_RIGHT>All rights reserved by Azahar, the developer of this. Making illegal copy of this game or source code is not allowed</COPY_RIGHT>
+    <WELCOME_MSG>Welcome to 2 Player Knight Rider Game. </WELCOME_MSG>
+    <PLAYER_NOTE>Each Player will have 1 Knight. </PLAYER_NOTE>
+    <WHO_WILL_WIN>Player whose Knight will reach coordinate position 8,8 earliest will win </WHO_WILL_WIN>
+    <PLAYER>Player</PLAYER>
+    <IS_AT>is at</IS_AT>
+    <STOP_MSG>Please type 'Stop' to exit the game or</STOP_MSG>>
+    <ENTER_COORDINATE>Please Enter Coordinate for Player</ENTER_COORDINATE>
+    <INCORRECT_COORDINATES>Incorrect coordinates.</INCORRECT_COORDINATES>
+    <INCORRECT_ROW>Incorrect Row coordinate value.</INCORRECT_ROW>
+    <INCORRECT_COL>Incorrect Column coordinate value.</INCORRECT_COL>
+    <INCORRECT_MOVE>Incorrect move for Player</INCORRECT_MOVE>
+    <INCORRECT_SETUP>Incorrect setup of either player or knight muzzle objects</INCORRECT_SETUP>
+    <ABORT>Game aborted...</ABORT>
+    <WON_MSG>Won the game : Hurray !!!</WON_MSG>
+    <BROKE_MSG>Game Stopped.You broke my heart. Please play later.</BROKE_MSG>
+    <OVER>Game Over</OVER>
+    <BYE>Bye!!.</BYE>
+    <PLAYER_MOVE>Here is how each player moved.</PLAYER_MOVE>
+    <COORDINATES>Coordinates</COORDINATES>
+    <NO_MOVES>No Moves</NO_MOVES>
+    <MOVE>Move</MOVE>
+    <INAPPROPRIATE_MOVE>This move will never lead to winning position 8,8</INAPPROPRIATE_MOVE>
+    <NEXT_PROBABLE_MOVE>Next probable move for</NEXT_PROBABLE_MOVE>
+    <CORRECT_BUT_NOT_FAST_MOVE>Move is correct but will not result in quick win. Do you want to change the move? (yes/no) : </CORRECT_BUT_NOT_FAST_MOVE>
+    <HELP_SYSTEM>Type 'help' to get next move information from system</HELP_SYSTEM>
+    <NO_HELP>System cannot help at this time. Please try on your own.</NO_HELP>
+    <NEXT_MOVE>Next Move should be : </NEXT_MOVE>
+    <SETUP_FAILED>Game Setup failed </SETUP_FAILED>
+    <MOVE_INFO_GEN_FAILED>Move Information generation failed </MOVE_INFO_GEN_FAILED>
+    <GAME_OVER_FAILED>Game over closure failed </GAME_OVER_FAILED>
+    <GAME_STOP_FAILED>Stopping game failed </GAME_STOP_FAILED>
+    <GEN_STRING_FAILED>String generation failed </GEN_STRING_FAILED>
+    <COORD_VAL_FAILED>Coordinate validator failed </COORD_VAL_FAILED>
+    <CONFIG_SETUP_FAILED>Game configuration setup failed </CONFIG_SETUP_FAILED>
+    <GRAPH_CREATE_FAILED>Game coordinate graph creation failed </GRAPH_CREATE_FAILED>
+    <GET_PATH_FAILED>Getting path failed </GET_PATH_FAILED>
+    <PRINT_ALL_FAILED>Printing path coordinate failed </PRINT_ALL_FAILED>
+    <PRINT_MOVE_FAILED>Printing player move failed </PRINT_MOVE_FAILED>
+    <PRINT_COORD_FAILED>Printing player coordinate failed </PRINT_COORD_FAILED>
+    <GRAPH_SETUP_FAILED>Coordinate graph creation failed </GRAPH_SETUP_FAILED>
+    <GRAPH_PATH_FAILED>Getting path help from graph failed</GRAPH_PATH_FAILED>
+    <KNIGHT_MOVE_VAL_FAILED>Knight move validation failed</KNIGHT_MOVE_VAL_FAILED>
+    <KNIGHT_MOVE_SETTING_FAILED>Knight new position setting failed</KNIGHT_MOVE_SETTING_FAILED>
+</messages>
