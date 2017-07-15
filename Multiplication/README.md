@@ -1,6 +1,5 @@
-## Problem Statement: Multiply two numbers. Assume each can have 30-40 digits. Numbers will
-
-be positive.
+## Problem Statement:
+Multiply two numbers. Assume each can have 30-40 digits. Numbers will be positive.
 
 ## Solution:
 
@@ -61,3 +60,8 @@ Program can be enhanced to support multiplications of numbers which can have any
 For that each input has to be broken into multiple linked list and then process them accordingly just like
 
 big data system. Map, calculate and then reduce. Please let me know to clarify what approach it means.
+
+## Deployment and Run
+
+To run the multiplication please edit multiply.bat. Change the path of jdk8 (64 bit) bin to the path on your system. Save and close the startgame.bat.
+Run multiply.bat !!
