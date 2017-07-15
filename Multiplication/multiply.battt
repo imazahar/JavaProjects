@@ -1,0 +1,2 @@
+"C:\Program Files\Java\jdk1.8.0_65\bin\java"  -Xms256m -Xmx1024m -Dlog4j.configurationFile=.\Log4j2\log4j2.xml -jar bin\multiply.jar"
+PAUSE
