@@ -87,6 +87,10 @@ and corresponding string_<lang>.xml. Place string_<lang>.xml in same folder.
 
 * Eclipse Java IDE, Java 8
 
+## Deployment and Run
+To run the game please edit startgame.bat. Change the path of jdk8 (64 bit) bin to the path on your system. Save and close the startgame.bat.
+Run startgame.bat to play knight rider game. Enjoy !!
+
 ## Contributing
 
 TBD
